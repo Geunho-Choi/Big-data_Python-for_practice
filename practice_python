@@ -17,3 +17,23 @@ print("hello, world")
 # usage: 해당 라인에서 CTRL + /를 입력하면 됨.
 print("hello, python")
 
+# 데이터 : 값을 의미함.
+# ex) 31, 3.141592, geunho
+
+# 파이썬이 제공하는 값의 종류
+# 정수(integer): 0, -10, 20
+# 실수(float, 부동소수점): 3.141592
+# 문자열(string): "hello", 'python', """goodbye""", '''자장면'''
+# 불린(boolean): True(참), False(거짓)
+
+# 컴퓨터 : computer -> compute + er -> 계산기
+
+# 파이썬은 산술 연산을 지원합니다.
+print(1 + 1)
+print(1 - 1)
+print(2 * 2)
+print(7 / 3)
+
+print(8 // 3) # 몫 : 2
+print(7 % 2)  # 나머지 : 1
+print(2 ** 10) # 2의 10승 -> 승수 연산자
